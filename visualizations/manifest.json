@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "tmr031": {
+    "title": "",
+    "website": "https://github.com/tmr031",
+    "logo": "https://avatars1.githubusercontent.com/u/20348337?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/tmr031",
           "versions": {
             "1.0.0": {
               "simple": {
